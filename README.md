@@ -2,7 +2,7 @@
 
 ## [About Me](https://drew.gallis.xyz)
 
-Hey everyone I'm Drew, a Cyber Security aAalyst who primarily works in a mesh of service APIs, security automation workflows, vulnerability analysis, and a python fanatic. In my free time I also like to experiment with hacking hardware (Wireless/RF), brewing, fly fishing, and hiking.
+Hey everyone I'm Drew, a Cyber Security Analyst who primarily works in a mesh of service APIs, security automation workflows, vulnerability analysis, and a python fanatic. In my free time I also like to experiment with hacking hardware (Wireless/RF), brewing, fly fishing, and hiking.
 
 <!--
 **drewgallis/drewgallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
