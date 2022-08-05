@@ -2,7 +2,7 @@
 
 ## [About Me](https://drew.gallis.xyz)
 
-Hey everyone I'm Drew, a Cyber Security Analyst who primarily works with a mesh of service APIs, hybrid-cloud environments, security automation workflows, vulnerability analysis, and a long-time python fanatic. 
+Hey everyone I'm Drew, a Cyber Security Analyst who primarily works with a mesh of service APIs, hybrid-cloud environments, securing containerized enviroments (docker/kubernetes), security automation workflows, vulnerability analysis, and a long-time python fanatic. 
 
 In my free time, I like to experiment in my home lab's enterprise network with various hacking hardware (Wireless/RF/LAN), cutting-edge SIEMs, custom monitoring, and security automation solutions. Outside of security, I enjoy home-brewing, fly fishing, backcountry skiing, and hiking.
 
