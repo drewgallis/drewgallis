@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 -->
 
 
-- I’m currently working on python security automation scripts and bots
+- I’m currently working on k8s, python security automation scripts, and bots
 - 📫 How to reach me: [@drewgallis](https://linkedin.com/in/drewgallis)
